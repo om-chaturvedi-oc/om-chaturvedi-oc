@@ -4,9 +4,9 @@ You're viewing /
 > 👋 Hello there! 
 
 - upcoming Web Developer
-- currently 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 
+> 📫 How to reach me : 
+- ![Linkedin](https://www.linkedin.com/in/om-chaturvedi-394187207/)
 
 <!---
 om-chaturvedi-oc/om-chaturvedi-oc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
