@@ -3,11 +3,10 @@ You're viewing
 
 👋 Hello there! 
 
+* Data Analyst
 * Web Developer
 * Graphic Designer
 * Editor
-
-working hard eachday to come up with new. 
 
 
 > 📫 How to reach me : 
